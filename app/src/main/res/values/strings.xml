@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HÇC Yönetim</string>
+    <string name="username">KULLANICI ADI</string>
+    <string name="password">ŞİFRE</string>
+    <string name="enter">GİRİŞ</string>
+    <string name="remember_me">BENİ HATIRLA</string>
+    <string name="mosques">CAMİLER</string>
+    <string name="info">Bilgi</string>
+    <string name="inspection">Yoklama</string>
+    <string name="report">Rapor</string>
+    <string name="day">Gün</string>
+
+    <string name="fajr">SABAH</string>
+    <string name="dhuhr">ÖĞLE</string>
+    <string name="asr">İKİNDİ</string>
+    <string name="magrib">AKŞAM</string>
+    <string name="isha">YATSI</string>
+
+    <string name="inspectionCompleted">YOKLAMA ALINDI</string>
+    <string name="inspectionSynced">YOKLAMA SENKRONİZE EDİLDİ</string>
+    <string name="inspecitonEmpty">-----</string>
+    <string name="cancel">İPTAL</string>
+    <string name="accept">ONAYLA</string>
+
+
+    <string name="xDay">%1$d. Gün</string>
+
+</resources>

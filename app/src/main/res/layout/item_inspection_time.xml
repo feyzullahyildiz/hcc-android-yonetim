@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+>
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+    >
+        <TextView
+                android:id="@+id/item_inspection_time_time_textview"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:minHeight="60dp"
+                android:textSize="@dimen/item_normal_font_size"
+                tools:text="SABAH"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+        />
+        <TextView
+                android:id="@+id/item_inspection_time_state_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/item_small_font_size"
+                tools:text="Tamamlandı"
+                android:layout_gravity="bottom"
+
+
+        />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
